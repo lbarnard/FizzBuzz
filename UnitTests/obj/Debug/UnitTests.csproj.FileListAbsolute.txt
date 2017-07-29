@@ -1,0 +1,10 @@
+D:\github\FizzBuzz\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\github\FizzBuzz\UnitTests\bin\Debug\UnitTests.dll
+D:\github\FizzBuzz\UnitTests\bin\Debug\UnitTests.pdb
+D:\github\FizzBuzz\UnitTests\bin\Debug\FizzBuzz.exe
+D:\github\FizzBuzz\UnitTests\bin\Debug\nunit.framework.dll
+D:\github\FizzBuzz\UnitTests\bin\Debug\FizzBuzz.pdb
+D:\github\FizzBuzz\UnitTests\bin\Debug\FizzBuzz.exe.config
+D:\github\FizzBuzz\UnitTests\bin\Debug\nunit.framework.xml
+D:\github\FizzBuzz\UnitTests\obj\Debug\UnitTests.dll
+D:\github\FizzBuzz\UnitTests\obj\Debug\UnitTests.pdb
