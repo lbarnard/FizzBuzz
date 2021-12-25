@@ -18,7 +18,7 @@ namespace FizzBuzz
                     StringBuilder sb = new StringBuilder();
                     foreach (var match in matches)
                     {
-                        sb.Append(i%match.Divisor == 0 ? match.Response : "");
+                        sb.Append(i % match.Divisor == 0 ? match.Response : "");
                     }
 
                     if (sb.Length == 0)
