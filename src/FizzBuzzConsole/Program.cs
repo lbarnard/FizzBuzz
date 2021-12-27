@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using FizzBuzz;
 
-namespace FizzBuzz
+namespace FizzBuzzConsole
 {
     internal class Program
     {
         private static void Main()
         {
             FizzBuzzer fb = new FizzBuzzer();
-                
+
             var result = fb.Play(255,
                 new List<FizzBuzzMatch>
                     {

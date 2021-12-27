@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Text;
+﻿using System.Text;
 
 namespace FizzBuzz
 {
@@ -15,14 +14,14 @@ namespace FizzBuzz
 
                 for (int i = 1; i <= target; i++)
                 {
-                    StringBuilder sb = new StringBuilder();
+                    StringBuilder sb = new();
                     foreach (var match in matches)
                     {
                         sb.Append(i % match.Divisor == 0 ? match.Response : "");
                     }
 
                     if (sb.Length == 0)
-                        sb.Append(i.ToString());
+                        sb.Append(i);
 
                     responses.Add(sb.ToString());
                 }
